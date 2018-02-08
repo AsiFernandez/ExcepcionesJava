@@ -4,7 +4,7 @@ import java.io.File;
 import java.io.IOException;
 import java.util.Scanner;
 
-public class calculadora extends Divisiones {
+public class CalculadoraMain extends Divisiones {
 
 	
 	
